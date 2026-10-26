@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Grupp 7 är här!");
+    }
+    
+}
