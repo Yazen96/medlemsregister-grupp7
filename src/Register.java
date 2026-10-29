@@ -57,4 +57,14 @@ public class Register {
 
         return null;
     }
+
+    public Medlem sokMedlem(String namn) {
+    for (Medlem medlem : medlemmar) {
+        if (medlem.getNamn().equalsIgnoreCase(namn)) {
+            return medlem;
+        }
+    }
+
+    return null;
+}
 }
