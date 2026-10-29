@@ -37,3 +37,10 @@ När vi hade kopplat ihop delarna hittade vi att registret sökte på medlemsnum
 - Om ja: Beskriv hur ni använde verktyget och ge ett konkret exempel: vad frågade ni om, och behövde ni ändra eller anpassa förslaget för att det skulle passa er app?
 
 - Om nej: Hur resonerade ni kring att lösa uppgiften helt på egen hand och var det något moment där ni funderade på att ta hjälp?
+
+Yazan:
+
+Victoria: Jag använde inte AI-verktyg eller externa hjälpmedel när jag arbetade med Medlem. Utan utgick istället från kursmaterialet som vi haft tidigare veckor. Jag ville försöka lösa min del själv och förstå hur klassen fungerar. När jag blev osäker gick jag igenom koden och funderade på upplägget samt hur get-metoderna hänger ihop. Hade uppgiften varit något större så hade jag kunnat använda AI för att få ett hum om hur jag skulle kunna gå vidare om jag körde fast, eller ge mig idéer för olika eventuella tillägg för att kunna utöka projektet.
+
+Julio:
+
