@@ -38,7 +38,7 @@ När vi hade kopplat ihop delarna hittade vi att registret sökte på medlemsnum
 
 - Om nej: Hur resonerade ni kring att lösa uppgiften helt på egen hand och var det något moment där ni funderade på att ta hjälp?
 
-Yazan:
+Yazan: Jag använde AI så att förstå hur ska kopplingen mellan Main.java och Register.java innan att Register.java var alls skapat, eftersom jag hade ansvar på atta skriva Main.java koden så frågade jag AI hur jag skulle kunna tänka kring kopplingen mellan delarna. Jag använde alltså AI för att få en förklaring och förstå upplägget. Själva koden skrev jag sedan själv.
 
 Victoria: Jag använde inte AI-verktyg eller externa hjälpmedel när jag arbetade med Medlem. Utan utgick istället från kursmaterialet som vi haft tidigare veckor. Jag ville försöka lösa min del själv och förstå hur klassen fungerar. När jag blev osäker gick jag igenom koden och funderade på upplägget samt hur get-metoderna hänger ihop. Hade uppgiften varit något större så hade jag kunnat använda AI för att få ett hum om hur jag skulle kunna gå vidare om jag körde fast, eller ge mig idéer för olika eventuella tillägg för att kunna utöka projektet.
 
